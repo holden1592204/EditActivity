@@ -9,8 +9,8 @@
     <string name="url_hint">URL</string>
     <string name="position_hint">部署＆役職</string>
     <string name="name_hint">名前</string>
-    <string name="seve_text">保存</string>
-    <string name="canceltext">キャンセル</string>
+    <string name="save_text">保存</string>
+    <string name="cancel_text">キャンセル</string>
     <string name="textView">textView</string>
     <string name="edit_text">編集</string>
 </resources>
